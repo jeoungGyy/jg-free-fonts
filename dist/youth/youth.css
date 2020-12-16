@@ -1,0 +1,7 @@
+@font-face{
+font-family:'Youth';
+font-style:normal;
+font-weight:400;
+src:url('https://cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kywa/Youth/Youth.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/korean-webfonts/1/orgs/othrs/kywa/Youth/Youth.woff') format('woff');
+}
