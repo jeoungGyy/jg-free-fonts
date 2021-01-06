@@ -1,0 +1,24 @@
+@font-face {
+	font-family: NanumSquareRound;
+	font-style: normal;
+	font-weight: 300;
+	src: local("./NanumSquareRoundL"), url(NanumSquareRoundL.woff) format("woff")
+}
+@font-face {
+	font-family: NanumSquareRound;
+	font-style: normal;
+	font-weight: 400;
+	src: local("./NanumSquareRoundR"), url(NanumSquareRoundR.woff) format("woff")
+}
+@font-face {
+	font-family: NanumSquareRound;
+	font-style: normal;
+	font-weight: 700;
+	src: local("./NanumSquareRoundB"), url(NanumSquareRoundB.woff) format("woff")
+}
+@font-face {
+	font-family: NanumSquareRound;
+	font-style: normal;
+	font-weight: 800;
+	src: local("./NanumSquareRoundEB"), url(NanumSquareRoundEB.woff) format("woff")
+}
